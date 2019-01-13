@@ -9,4 +9,4 @@ First at 1000 points wins.
 Press "Action" touch to change pizzas locations on the map, and make an advantage (or disadvantage) on you or your enemy. 
 1 - 2 Players
 
-Note : All sounds and muscis are copyright free.
+Note : All sounds and musics are copyright free.
