@@ -5,7 +5,8 @@ It have some minors bugs that i am working on !
 
 # Goal
 You are a pizzaiolo, and you must eat peperoni pizza to win points, and DO NOT eat those disguisting ananas pizzas, Erk ! 
-First at 1000 points wins
+First at 1000 points wins.
+Press "Action" touch to change pizzas locations on the map, and make an advantage (or disadvantage) on you or your enemy. 
 1 - 2 Players
 
 Note : All sounds and muscis are copyright free.
